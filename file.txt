@@ -2,6 +2,7 @@ this is the first
 this is the second line
 we also deleted some from the first line
 
+
 this line is entered using the remote repo
 hahah
 
@@ -13,3 +14,9 @@ this line is written on the local
 hahah remote version here
 
 //merged done
+
+//version one changes are added to the end of the file
+this is version 1 changes:
+version 1
+version 1
+version 1
