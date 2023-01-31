@@ -4,6 +4,12 @@ we also deleted some from the first line
 
 this line is entered using the remote repo
 hahah
-hahah
 
+//local version
+hahah
 this line is written on the local
+
+//online version
+hahah remote version here
+
+//merged done
